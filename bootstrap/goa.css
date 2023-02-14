@@ -1,0 +1,22 @@
+.caro1{
+    height: 70vh;
+    margin: 20px;
+}
+.image1{
+    height: 250px;
+    width: 300px;
+    margin: 20px;
+}
+.video1{
+    height: 300px;
+    width: 30%;
+    margin: 15px;
+    border-radius: 15px;
+}
+h2{
+    margin-left: 20px;
+}
+p{
+    margin: 20px;
+    color: gray;
+}

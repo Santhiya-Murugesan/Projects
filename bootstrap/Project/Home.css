@@ -1,0 +1,27 @@
+.body1{
+    background-image: radial-gradient(rgb(0, 49, 128),rgb(255, 192, 230));
+}
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+}
+.img1{
+    height: 60vh;
+    width: 700px;
+    margin: 20px;
+}
+.div1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color: rgb(110, 11, 146);
+    font-size: x-large;
+}
+h2{
+    color: darkblue;
+    font-size: xx-large;
+}

@@ -1,0 +1,38 @@
+.image1{
+    height: 70vh;
+    width: 80vw;
+}
+h1{
+    color: rgb(86, 86, 222);
+    text-align: center;
+}
+h2{
+    color: rgb(220, 46, 145);
+    text-align: center;
+}
+.div1{
+    padding: 20px;
+    text-align: justify;
+    margin: 10px;
+    background-color: pink;
+}
+.div2{
+    padding: 20px;
+    text-align: justify;
+    margin: 10px;
+    background-color: rgb(221, 215, 144);
+}
+.div3{
+    padding: 20px;
+    text-align: justify;
+    margin: 10px;
+    background-color: aquamarine;
+}
+button{
+    margin-left: 43%;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+    border: none;
+}
+

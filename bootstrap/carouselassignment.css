@@ -1,0 +1,10 @@
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    color: rgb(60, 130, 235);
+}
+.images{
+    height:90vh;
+}

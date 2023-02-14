@@ -1,0 +1,24 @@
+.div1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    position: fixed;
+}
+.para{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    padding: 50px;
+    font-size: xx-large;
+}
+.cont{
+    border: 7px solid rgb(7, 162, 7);
+    height: 350px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 200px;
+    
+}

@@ -1,0 +1,40 @@
+.image1{
+    height: 40vh;
+    width: 70vw;
+    margin-left: 230px;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(10, 10, 98);
+}
+.image2{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    
+   
+}
+.figcap{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(white,rgb(143, 143, 210));
+}
+.divclass{
+    height:400px;
+    width: 500px;
+    margin: 20px;
+    border: 2px solid rgb(79, 79, 216);
+}
+h4{
+    margin-left: 15px;
+    color: rgb(158, 75, 16);
+}
+p{
+    margin-left: 15px;
+}
+button{
+    text-align: center;
+    margin-left: 47%;
+}

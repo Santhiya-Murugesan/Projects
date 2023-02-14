@@ -1,0 +1,8 @@
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px;
+}
+nav ul{
+    background-color: rgb(178, 236, 236);
+}

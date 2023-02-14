@@ -1,0 +1,34 @@
+.video1{
+    height: 70vh;
+    width: 90vw;
+    margin-left: 5%;
+}
+h1{
+    color: rgb(150, 183, 239);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.para{
+    color: rgb(52, 3, 42);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    padding: 20px;
+}
+.divbg{
+    background-image: url("https://www.planetware.com/wpimages/2020/03/best-hot-air-balloon-rides-cappadocia-turkey.jpg");
+    opacity: 0.9;
+    background-size: cover;
+}
+button{
+    margin-left: 43%;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+    background-color: rgb(237, 237, 185);
+}
+
+
+

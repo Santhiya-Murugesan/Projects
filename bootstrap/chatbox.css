@@ -1,0 +1,22 @@
+div{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+}
+header{
+    text-align: center;
+    color: azure;
+    background-color: rgba(69, 68, 68, 0.627);
+}
+.pri{
+    border-radius: 5px 5px 0px 5px;
+    color: aliceblue;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sec{
+    border-radius: 5px 5px 5px 0px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

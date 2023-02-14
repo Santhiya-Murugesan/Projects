@@ -1,0 +1,41 @@
+.image2{
+    height: 200px;
+    width: 300px;
+    padding-left: 110px;
+}
+body{
+    background-image: rgb(143, 143, 210);
+}
+.divclass{
+    height:300px;
+    width: 400px;
+    margin: 20px;
+    background-color: azure;
+    border-radius: 8px;
+}
+h4{
+   text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    text-align: center;
+    margin-left: 47%;
+}
+.divcolor{
+    background-color: #cbe5f5;
+}
+header{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 60vh;
+    width: 100vw;
+}
+.divhead{
+    color: #cbe5f5;
+    font-family: cursive;
+    font-size: xx-large;
+    position: relative;
+    margin-right: 850px;
+    padding-top: 110px;
+}
