@@ -1,0 +1,29 @@
+.button{
+    color: rgb(20, 94, 190);
+    font-weight: bolder;
+}
+.divbg1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 100%;
+}
+.divbg2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 100%;
+}
+.head{
+    color: azure;
+    margin-left: 20px;
+    padding-top: 540px;
+}
+.head1{
+    color: azure;
+    margin-left: 20px;
+    padding-top: 530px;
+}
+.divbutton{
+    border: 1px solid white;
+    background-color: transparent;
+    color: whitesmoke;
+}

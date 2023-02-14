@@ -1,0 +1,19 @@
+.navbar-image {
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+  
+  }
+  .div-bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+  }
+  .heading{
+    color: azure;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .div-child{
+    text-align: center;
+  }

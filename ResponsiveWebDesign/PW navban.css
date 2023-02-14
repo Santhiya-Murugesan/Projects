@@ -1,0 +1,15 @@
+.headtog{
+    border:3px solid rgb(79, 79, 234)
+  }
+  .image{
+    height: 200px;
+    width: 200px;
+    border-radius: 45%;
+    padding: 10px;
+  }
+  section{
+    background-color: rgb(12, 12, 12);
+  }
+  h1,p{
+    color: azure;
+  }

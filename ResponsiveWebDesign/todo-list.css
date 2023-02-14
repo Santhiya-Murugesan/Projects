@@ -1,0 +1,20 @@
+h1{
+    font-weight: 400!important;
+    font-size: 50px;
+}
+.head1{
+    color: blue;
+    font-weight: 100;
+}
+.list{
+    text-decoration: line-through;
+    font-style: italic;
+    opacity: 0.6;
+}
+ul li{
+    font-weight: 100;
+    font-size: larger;
+}
+div{
+    background-color: antiquewhite;
+}

@@ -1,0 +1,17 @@
+.services{
+    color:#cced00 ;
+}
+.divbg{
+    background-color:  #52606d;
+}
+.cardbackground{
+    background-color: #323f4b; 
+    border-radius: 5px;
+}
+.images{
+    width: 100px;
+    height: 100px;
+}
+h1,h2{
+    color: azure;
+}

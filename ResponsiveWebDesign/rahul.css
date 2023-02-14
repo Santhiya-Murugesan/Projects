@@ -1,0 +1,24 @@
+h1{
+    color: rgb(7, 7, 120)!important;
+}
+.head{
+    color: rgb(75, 75, 253);
+    text-transform: uppercase;
+}
+p{
+    color: blue;
+    background-color: rgb(117, 186, 254);
+}
+div{
+    height: 50px;
+    width: 300px;
+}
+#div1{
+    height: auto;
+    width: 300px;
+}
+.p1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif
+}
+

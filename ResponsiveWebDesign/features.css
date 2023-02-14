@@ -1,0 +1,23 @@
+.imagex{
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+  }
+  .wcard{
+    text-align: center;
+    height: 50vh;
+    opacity: 0.9;
+    border-radius: 7px;
+    color: black;
+  }
+  .section{
+    background-color: white;
+  }
+
+  .div-child{
+    text-align: center;
+  }
+  .h1{
+    font-weight: bolder;
+    font-size: 50px;
+  }

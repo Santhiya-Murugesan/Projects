@@ -1,0 +1,65 @@
+.navbar-image {
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+  }
+
+
+
+  .imagex{
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+  }
+  .wcard{
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/id/953140058/photo/cooking-nd-seasoning-spices-border-on-black-slate-background.jpg?b=1&s=170667a&w=0&k=20&c=8Vmnl8mHhMmc2WvnEEj0RDajvg75bizccWzrTXIh2z8=");
+    background-size: cover;
+    height: 50vh;
+    opacity: 0.9;
+    border-radius: 7px;
+    color: white;
+  }
+  .section{
+    background-color: rgb(235, 235, 202);
+  }
+
+  .div-bg{
+    background-image: url("https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg?w=2000");
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+  }
+  .heading{
+    color: rgb(214, 213, 143);
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .div-child{
+    text-align: center;
+  }
+
+
+
+  
+  .menu{
+    background-color: rgb(244, 236, 236);
+  }
+  .menu1{
+    color: blue;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  .img{
+    border-radius: 20px;
+  }
+  .mh{
+    font-size: 20px;
+  
+  }
+  .shadow{
+    box-shadow: 5px 5px 3px rgb(231, 12, 12);
+  }
+  .mainmh{
+    font-size: 30px;
+  }

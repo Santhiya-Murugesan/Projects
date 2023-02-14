@@ -1,0 +1,43 @@
+.color{
+    color: #cced00
+    #1f2933
+    #9aa5b1
+    #323f4b
+    ;
+}
+.facts{
+    color:#cced00 ;
+}
+.about{
+    color: whitesmoke;
+}
+.div1{
+    background-color:  #323f4b ;
+}
+.image1{
+    height: 300px;
+    width: 400px;
+}
+.image2{
+    height: 100px;
+    width: 100px;
+}
+.skills{
+    color: #cced00;
+}
+figcaption{
+    color: azure;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.div2{
+    background-color:  #1f2933;
+} 
+.border{
+    border-radius: 15px;
+    border-style: none;
+}
+figure{
+    background-color: #9aa5b1;
+}
