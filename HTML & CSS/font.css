@@ -1,0 +1,26 @@
+body{
+    text-align: justify;
+    background-color: rgb(242, 168, 214);
+    word-spacing: 10px;
+    line-height: 1.5;
+}
+h3{
+    text-decoration: underline;
+    color: blue;
+    background-color: rgb(124, 231, 231);
+
+}
+.h1{
+    text-transform: uppercase;
+    color: rgb(24, 87, 89);
+    text-shadow: 10px 5px 15px;
+    text-align: center;
+}
+p{
+    text-indent: 20px;
+}
+footer{
+    text-align: center;
+    color: chocolate;
+}
+

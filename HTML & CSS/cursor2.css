@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(246, 213, 202);
+    text-align: justify;
+} 
+.p1{
+    background-color: aqua;
+    color: blue;
+    cursor: alias;
+}
+.p2{
+    background-color: rgb(215, 214, 179);
+    color: rgb(76, 7, 7);
+    cursor:all-scroll;
+}
+.p3{
+    background-color: rgb(216, 164, 218);
+    color: blue;
+    cursor:cell;
+}
+.p4{
+    background-color: rgb(151, 228, 205);
+    color: rgb(255, 0, 25);
+    cursor:copy;
+}
+.p5{
+    background-color: rgb(190, 93, 93);
+    color: rgb(32, 88, 15);
+    cursor:grab;
+}
+.p6{
+    background-color: aqua;
+    color: blue;
+    cursor:pointer;
+}
+.p7{
+    background-color: rgb(137, 183, 163);
+    color: rgb(12, 12, 12);
+    cursor:not-allowed;
+}
+.p8{
+    background-color: rgb(145, 95, 211);
+    color: rgb(200, 255, 0);
+    cursor:crosshair;
+}
+
+h1{
+    color: rgb(58, 100, 17);
+    background-color: aquamarine;
+    text-align: center;
+}

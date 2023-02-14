@@ -1,0 +1,36 @@
+.div1{
+    overflow:visible;
+    height: 400px;
+    width: 300px;
+    background-color: blueviolet;
+    color: bisque;
+    text-align: justify;
+}
+.div2{
+    overflow: hidden;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(45, 44, 45);
+    color: bisque;
+    text-align: justify;
+}
+.div3{
+    overflow: scroll;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(226, 43, 43);
+    color: bisque;
+    text-align: justify;
+}
+.div4{
+    overflow: auto;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(43, 64, 226);
+    color: bisque;
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    color: aqua;
+}

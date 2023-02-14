@@ -1,0 +1,56 @@
+.box1{
+    width: 300px;
+    height: 200px;
+    background-color: #ccc;
+    box-shadow: 5px 5px 15px #999;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+.box2{
+    width: 300px;
+    height: 200px;
+    background: #ccc;
+    box-shadow: 5px 5px 15px #999;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+.box3{
+    width: 300px;
+    height: 200px;
+    background: #ccc;
+    box-shadow: 5px 5px 15px #999;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+.button1{
+    height: 20px;
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background: -webkit-linear-gradient(rgb(213, 57, 22),rgb(230, 188, 22));
+    border: 1px solid #ccc ;
+}
+.button2{
+    height: 20px;
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background: -webkit-linear-gradient(rgb(189, 189, 238),rgb(33, 33, 104));
+    border: 1px solid #ccc ;
+}
+.button3{
+    height: 20px;
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background: -webkit-linear-gradient(rgb(8, 126, 20),rgb(42, 240, 108));
+    border: 1px solid #ccc ;
+}
+
+

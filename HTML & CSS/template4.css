@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://www.akltherapy.com/wp-content/uploads/2020/08/BG-ComingSoon-AKL-A3M2020B-203.png");
+    background-repeat:no-repeat;
+    background-color: rgb(195, 193, 193);
+    color: aliceblue;
+}
+nav ul{
+    padding: 25px;
+    z-index: -1;
+    background-color: azure;
+    border-radius: 40px;
+    height: 20px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav ul li{
+    color: rgb(2, 18, 17);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display:inline-block;
+    word-spacing: 30px;
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 12px;
+    padding-right: 20px;
+}
+a{
+    color: crimson;
+}
+article{
+    padding-right: 300px;
+    padding-top: 80px;
+    margin-left: 60%;
+    margin-top: 3%;
+}
+.p1{
+    color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+button{
+    margin-left: 60%;
+    height: 45px;
+    width: 200px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: crimson;
+    border-color: crimson;
+    color: azure;
+}
+header{
+    margin: 15px;
+    color: azure;
+    text-align: right;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.p3{
+    float:left; 
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 20px;
+    font-size: xx-large;
+}
+.p4{
+    float: left; 
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-right: 20px;
+
+}
+.p5{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}

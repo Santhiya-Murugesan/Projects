@@ -1,0 +1,61 @@
+.div1{     
+    outline: 5px solid #2cda95;
+    padding: 10px;
+    
+}
+
+.div2{
+    outline: 5px dashed #ac2cda;
+    padding: 10px;
+    
+}
+
+.div3{
+    outline: 5px dotted #d7da2c;
+    padding: 10px;
+   
+}
+
+.div4{
+    outline: 5px double #da2c2c;
+    padding: 10px;
+    
+}
+
+.div5{
+    outline: 5px groove #3d2cda;
+    padding: 10px;
+   
+}
+
+.div6{
+    outline: 5px none #2cda95;
+    padding: 10px;
+    
+}
+
+.div7{
+    outline: 5px ridge #97da2c;
+    padding: 10px;
+ 
+}
+
+.div8{
+    outline: 5px inset #07291b;
+    padding: 10px;
+  
+}
+.div9{
+    outline: 5px outset  #da2cba;
+    padding: 10px;
+    
+}
+section{
+    background-color: bisque;
+}
+h1{
+    font-size: xx-large;
+    color: chartreuse;
+}
+
+    

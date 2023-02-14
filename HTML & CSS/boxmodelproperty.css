@@ -1,0 +1,60 @@
+header{
+    width: 100%;
+    height: 20vh;
+    border: 1px solid red;
+}
+body{
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 20vh;
+    border: 1px solid rgb(64, 0, 255);
+}
+aside{
+    float: right;
+    
+}
+.box3{
+    height: 80vh;
+    border: 1px solid rgb(215, 30, 215);
+    width: 70%;
+    margin: 5px;
+}
+.box2{
+    width: auto;
+    height: 20vh;
+    border: 1px solid yellow;
+}
+
+.box5{
+    width: auto;
+    height: 20vh;
+    border: 1px solid yellow;
+}
+.box4{
+    width: auto;
+    height: 40vh;
+    border: 1px solid brown;
+}
+.posttitle{
+    height: 10vh;
+    width: auto;
+    border: 1px solid greenyellow;
+    margin: 8px;
+    font-weight: bolder;
+}
+.postcontent{
+    border: 1px solid crimson;
+    width: auto;
+    height: 35vh;
+    margin: 8px;
+}
+.comment{
+    border: 1px solid brown;
+    width: auto;
+    height: 27vh ;
+    margin: 8px;
+}
+
+

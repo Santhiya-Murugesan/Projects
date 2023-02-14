@@ -1,0 +1,25 @@
+img{
+    height: 300px;
+    width: 500px;
+
+}
+body{
+    background-color: chartreuse;
+    text-align: justify;
+}
+.fixed{
+    position: fixed;
+    background-color: aquamarine;
+}
+.sticky{
+    position: sticky;
+    background-color: blue;
+}
+.relative{
+    position: relative;
+    background-color: cadetblue;
+}
+h1{
+    background-color: rgb(219, 237, 154);
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to right,orange,red);
+}
+nav ul{
+    list-style-type:none;
+    background-color: rgba(249, 18, 18, 0.959);
+    padding: 10px;
+    word-spacing:40px;
+    margin-top: 10px;
+
+}
+nav ul li{
+    color: azure;
+    display: inline-block;
+    padding: 10px;
+}
+ul{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: right;
+    padding-right: 15px;
+}
+.article{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    text-align: left;
+    color: beige;
+    padding-left: 0px;
+    padding-top: 50px;
+}
+button{
+    border-radius: 30px;
+    border-color: whitesmoke;
+    padding: 5px;
+    width: 150px;
+
+}
+h1{
+    font-size: 30px;
+    background-color: rgb(123, 38, 38);
+    color: burlywood;
+    text-align: center;
+}
+div{
+    font-size: x-large;
+    padding: 10px;
+}

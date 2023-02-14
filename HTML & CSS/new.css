@@ -1,0 +1,24 @@
+.head{
+    color: rgb(245, 245, 252);
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    text-align: center;
+    background-image:url("https://wallpaperaccess.com/full/2314950.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    color: rgb(244, 233, 220);
+    font-size: x-large;
+}
+.maindiv{
+    height: 25vh;
+    width: 30vw;
+    border: 1px solid azure;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}

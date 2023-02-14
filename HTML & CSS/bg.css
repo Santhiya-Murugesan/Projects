@@ -1,0 +1,47 @@
+/* body{
+    background-image:
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmrYLz7YiKzPBoRVIlCvZCUCojm9G833nzw&usqp=CAU");
+    background-size: contain;
+    background-repeat:repeat-x;
+    background-position: left top;
+    background-origin: content-box; border: 2px dashed rgb(198, 5, 5);
+
+} */
+body{
+    background-image: url("https://i.pinimg.com/originals/9e/ed/14/9eed148d77b226590af7fbe5c4532282.png");
+    background-repeat:no-repeat;
+    text-align: justify;
+}
+.repeat{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-repeat: round;
+}
+.attach{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-attachment: fixed;
+}
+#color{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-color: aqua;
+}
+.position{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-position: left top;
+}
+.origin{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-origin: padding-box;
+}
+.clip{
+    background-image: url("https://assets.stickpng.com/images/5a6a3b29ab538104d4a30e28.png");
+    background-clip: border-box;
+    border: 2px dashed red;
+}
+footer{
+    text-align: center;
+}
+h1{
+    background-color: blue;
+    color: bisque;
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: #ff48f3;
+    padding: 30px;
+}
+.div{
+    height: 70vh;
+    width: 20%;
+    border-radius: 10%;
+    border-style: solid white;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+.input{
+    border-bottom: 1px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none; 
+    width: 300px;
+    height: 20px; 
+
+}
+.input1{
+    height: 40px;
+    width: 250px;
+    background-color:rgb(189, 46, 237) ;
+    border-radius: 30px;
+    border: solid rgb(189, 46, 237);
+    margin-left:10%;
+    margin-right: 10%;
+
+}
+
+span{
+    float: right;
+}
+footer{
+    text-align: center;
+    color: gray;
+    
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+.img{
+    height: 80px;
+    width: 100px;
+    border: 1px solid white;
+    margin-left: 30%;
+    margin-right: 30%;
+}

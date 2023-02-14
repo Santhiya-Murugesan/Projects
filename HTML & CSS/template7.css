@@ -1,0 +1,111 @@
+.divbg{
+    background-image: url("https://hhs.jmu.edu/cdc/images/children_board.png");
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav ul{
+    background-color: azure;
+}
+nav ul li{
+    display: inline-block;
+    color: black;
+    padding: 10px;
+}
+.divf1{
+    background-color: rgb(245, 184, 44);
+    color: azure;
+    height: 350px;
+    width: 300px;
+}
+.divf1{
+    background-color: rgb(245, 184, 44);
+    color: azure;
+    height: 200px;
+    width: 300px;
+    padding: 30px 20px 30px 50px;
+    float: left;
+    margin-left: 13px;
+}
+.divf2{
+   
+    color:black;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+    float: left;
+}
+.divf3{
+    
+    color: black;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+    float: left;
+}
+.divf4{
+   
+    color: black;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+    float: left;
+}
+.divmain{
+    width: 300px;
+    height: 175px;
+    margin-left: 60px;
+    background-color: azure;
+    padding: 40px 70px 30px 50px;
+    font-size: larger;
+    border-radius: 2px;
+    border-left: 10px solid rgb(245, 184, 44);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.divposition{
+    position: relative;
+    padding-left: 30px;
+    padding-top: 140px;
+} 
+h4{
+    color: azure;
+    padding: 20px;
+    line-height: 5px;
+}
+.para{
+    color: rgb(206, 201, 201);
+    padding-left: 20px;
+}
+.button1{
+    background-color: rgb(245, 184, 44) ;
+    color: aliceblue;
+    border: rgb(245, 184, 44) ;
+    height: 40px;
+    width: 90px;
+    margin-bottom: 30px;
+}
+header{
+    display: inline-flex;
+    opacity: 1.0;
+    color:white;
+}
+li{
+    display: inline-block;
+    padding-left:40px;
+}
+.calendar
+{
+    float: right;
+    margin-left: 500px;
+    position:relative;
+}
+.background
+{
+    background-color: rgba(0, 0, 0, 0.81);
+    opacity:0.9;
+}
+h2{
+    color: azure;
+    padding: 20px;
+    line-height: 5px;  
+}

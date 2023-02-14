@@ -1,0 +1,33 @@
+.div1{
+    background-color: gold;
+    width: 50%;
+    padding: 50px;
+    margin: 50px;
+}
+
+.div2{
+    background-color: aqua;
+    max-width: 35%;
+    height:100%;
+    padding: 40px 20px 20px;
+}
+.div3{
+    background-color: blueviolet;
+    width: 28%;
+    padding-top: 30px;
+}
+
+.div4{
+    background-color: rgb(34, 218, 21);
+    width: 30%;
+    padding: 0px 0px 15px 20px;
+}
+
+.div5{
+    background-color: rgb(34, 218, 21);
+    width: 30%;
+    padding: 0px 25px 10px 0px;
+}
+body{
+    border-style: ;
+}

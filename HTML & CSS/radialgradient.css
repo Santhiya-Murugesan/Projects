@@ -1,0 +1,20 @@
+h1{
+    color: crimson;
+    text-align: center;
+    background-color: coral;
+}
+body{
+    background-image: conic-gradient(rgb(243, 243, 147),rgb(195, 0, 255),rgb(232, 159, 22));
+    border-radius: 50%;
+}
+h3{
+    color: rgb(194, 194, 233);
+    background-color: rgb(88, 7, 80);
+}
+img{
+    height: 300px;
+    width: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+

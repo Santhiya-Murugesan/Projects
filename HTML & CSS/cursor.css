@@ -1,0 +1,26 @@
+/* body{
+    background-color: blanchedalmond;
+} */
+h1{
+    color: red;
+    background-color: coral;
+    text-align: center;
+}
+p{
+    cursor:pointer;
+}
+h3{
+    color: green;
+    cursor: progress;
+    background-color: aquamarine;
+}
+li{
+    cursor: crosshair;
+}
+img{
+    height: 300px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    cursor: wait;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+}
+header{
+    background-color: blueviolet;
+    color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+nav ul{
+    list-style-type:none;
+    background-color: rgba(12, 12, 12, 0.959);
+    padding: 20px;
+}
+nav ul li{
+    color: azure;
+    display: inline-block;
+    padding: 10px;
+}
+
+.active{
+    background-color: rgb(39, 38, 37);
+    border-radius: 10px;
+}
+a:hover{
+    background-color: aquamarine;
+    color: brown;
+} 
